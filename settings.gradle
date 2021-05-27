@@ -1,0 +1,3 @@
+include ':allplatform'
+include ':app'
+rootProject.name = "allplatform"
